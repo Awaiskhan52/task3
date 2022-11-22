@@ -1,0 +1,28 @@
+.styling{
+    border:2px solid black;
+}
+
+.form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+}
+.form-control::checkbox { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+}
+/* .custom-control-label{
+    cursor: pointer;
+}
+/* .custom-control-label::before{
+    width: 1em;
+    height: 1em;
+    border-radius: -15rem;
+
+} */
+/* .custom-control-label:hover::before{
+    background-color: green;
+
+}
+
+
+ */ */
